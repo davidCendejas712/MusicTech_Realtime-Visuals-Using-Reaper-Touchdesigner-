@@ -8,6 +8,9 @@ This project consists of composing a melodic Drum & Bass track and creating real
 The song follows a typical D&B structure with a strong drums + bass foundation, enriched with a melodic line that distinguishes it from more conventional D&B styles.  
 It is written in C Minor, and the chorus mainly follows a VI – VII – VI – i progression.
 
+## Demo
+You can watch a demo of the project here: [Watch the demo video](https://youtu.be/aLYvkcw1rmQ)
+
 The production includes:
 - Reverb routing (ReaVerb) on the choir and flute  
 - Delay with Ping-Pong effect (ReaDelay) on the main melody  
